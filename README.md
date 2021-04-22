@@ -10,6 +10,10 @@ App Screenshots and description:
 These screenshots were taken on Asus zenfone Max pro m1 running on Android 11.
 SplashScreen.java
 ![splash](https://user-images.githubusercontent.com/38659267/115761350-425d2f80-a370-11eb-9c14-c835be83f579.png)
+
+
+<img src="https://user-images.githubusercontent.com/38659267/115761350-425d2f80-a370-11eb-9c14-c835be83f579.png" width="300" height="500">
+
 i have created the logo from free website https://logomakr.com/
  
 
@@ -68,6 +72,9 @@ when we click on song it will redirect to PlayerAcivity.java
 PlayerActivity.java
 
 ![player_activity](https://user-images.githubusercontent.com/38659267/115762021-0080b900-a371-11eb-8abb-dd29e0a5c2cf.png)
+
+<img src="https://user-images.githubusercontent.com/38659267/115762021-0080b900-a371-11eb-8abb-dd29e0a5c2cf.png" width="300" height="500">
+<img src="https://user-images.githubusercontent.com/38659267/115762077-0f676b80-a371-11eb-9c0d-7492b67549f9.png" width="300" height="500">
 ![Album_main](https://user-images.githubusercontent.com/38659267/115762077-0f676b80-a371-11eb-9c0d-7492b67549f9.png)
 
  
@@ -79,11 +86,12 @@ Also the background gradient will also change according to the song image.
 Album.java(Second Fragment of activity
  
 ![Uploading Album_main.png…]()
+<img src="https://user-images.githubusercontent.com/38659267/115762021-0080b900-a371-11eb-8abb-dd29e0a5c2cf.png" width="300" height="500">
 
 if we click on any of the album songs corresponding to those album will be shown in another activity shown in below screenshot.
 AlbumDetails.java
 
-![album_items](https://user-images.githubusercontent.com/38659267/115762125-1ee6b480-a371-11eb-8c02-4b7747829d97.png)
+<img src="https://user-images.githubusercontent.com/38659267/115762125-1ee6b480-a371-11eb-8c02-4b7747829d97.png" width="300" height="500">
 
 
 It also uses custom list and custom   adapter for displaying songs.
