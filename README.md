@@ -20,6 +20,8 @@ It checks for the user is already in database or not if login is successfull,it 
 It also has keep me signed in button which saves the user email and password and will login automatically whenever user opens the app until user himself logout  from the app.
 ![login](https://user-images.githubusercontent.com/38659267/115761404-4c7f2e00-a370-11eb-8903-6f5426b085af.png)
 
+<img src="https://user-images.githubusercontent.com/38659267/115761404-4c7f2e00-a370-11eb-8903-6f5426b085af.png" width="100" height="100">
+
  
 
 SignupActivity:
