@@ -83,8 +83,8 @@ Also the background gradient will also change according to the song image.
 
 Album.java(Second Fragment of activity
  
-![Uploading Album_main.png…]()
-<img src="https://user-images.githubusercontent.com/38659267/115762021-0080b900-a371-11eb-8abb-dd29e0a5c2cf.png" width="300" height="500">
+
+<img src="https://user-images.githubusercontent.com/38659267/115766835-6cb1eb80-a376-11eb-9a83-337e29aa8df3.png" width="300" height="500">
 
 if we click on any of the album songs corresponding to those album will be shown in another activity shown in below screenshot.
 AlbumDetails.java
