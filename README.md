@@ -5,7 +5,7 @@
 
 
 
-App Screenshots and description:
+<h3>App Screenshots and description:</h3>
 
 These screenshots were taken on Asus zenfone Max pro m1 running on Android 11.
 SplashScreen.java
@@ -13,11 +13,11 @@ SplashScreen.java
 
 <img src="https://user-images.githubusercontent.com/38659267/115761350-425d2f80-a370-11eb-9c14-c835be83f579.png" width="300" height="500">
 
-i have created the logo from free website https://logomakr.com/
+I have created the logo from free website https://logomakr.com/
  
 
 
-LoginActivity:
+<h2>LoginActivity:</h2>
 Called by Splash Screen.
 It checks for the user is already in database or not if login is successfull,it will redirect activity to Mainactivity.java
 It also has keep me signed in button which saves the user email and password and will login automatically whenever user opens the app until user himself logout  from the app.
@@ -27,7 +27,7 @@ It also has keep me signed in button which saves the user email and password and
 
  
 
-SignupActivity:
+<h2>SignupActivity:</h2>
 Called when signup button of LoginActivity is clicked.
 It stores the user info in sqlite database of android and returns to Login Activity if the signup process is successfull.
 It validates the input feilds in tyhe background .It shows error if user has entered invalid input.
@@ -37,7 +37,7 @@ It validates the input feilds in tyhe background .It shows error if user has ent
 <img src="https://user-images.githubusercontent.com/38659267/115761446-56a12c80-a370-11eb-8f91-c9f34dade515.png" width="300" height="500">
 
 
-MainActivity.java
+<h2>MainActivity.java</h2>
 This class contains 2 fragments ListFragment which displays the list of songs and Album fragment which displays albums available in local storage .
 
 
@@ -49,7 +49,7 @@ This class contains 2 fragments ListFragment which displays the list of songs an
 It also a menu in custom action bar which displays user name and a menu  from where user can logout from the app and can check his info by clcicking on My Profile option.
 
  
-MyProfile.java
+<h2>MyProfile.java</h2>
 If we click on the second option of the menu in main activity the it will redirect to MyProfile activity as shown in screenshot below.
 
 
@@ -68,7 +68,7 @@ From the three menu option if we click on Delete option it will pop up a confirm
  
 
 when we click on song it will redirect to PlayerAcivity.java
-PlayerActivity.java
+<h2>PlayerActivity.java</h2>
 
 
 <img src="https://user-images.githubusercontent.com/38659267/115762021-0080b900-a371-11eb-8abb-dd29e0a5c2cf.png" width="300" height="500">
@@ -81,7 +81,7 @@ if shuffle button is on it will glow and will shuffle the songs from the  song l
 If repeat button is active the current song will played again and again.
 Also the background gradient will also change according to the song image.
 
-Album.java(Second Fragment of activity
+<h2>Album.java(Second Fragment of activity)</h2>
  
 
 <img src="https://user-images.githubusercontent.com/38659267/115766835-6cb1eb80-a376-11eb-9a83-337e29aa8df3.png" width="300" height="500">
@@ -95,10 +95,10 @@ AlbumDetails.java
 It also uses custom list and custom   adapter for displaying songs.
  
 
-Common Setup:
+<h2>Common Setup</h2>
 You can run the project with 2 ways:
 
-First Method
+<h3>First Method</h3>
 
 1.Download the Zip
 2.Extract the zip to you desired location
@@ -107,7 +107,7 @@ First Method
 5.You are good to go
 
 
-Second Method
+<h3>Second Method</h3>
 
 1.Copy the following link : https://github.com/Jayeshuttam/Flickr_Music
 
